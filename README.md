@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 - 📊 Data Analyst & Analytics Engineer
-- 📚 Math & ICT Teacher in Dhaka
+- 📚 Math & ICT Teacher in Narayanganj,Dhaka
 - 🔧 Exploring SQL, Power BI, Python, Databricks, Azure
 
 ## 🌟 Interests
 - Geometry concepts
 - Analytics engineering projects
-- ICT syllabus development
+- Syllabus development
 
 ## 📫 How to reach me
 - GitHub: [AKSUF](https://github.com/AKSUF)
