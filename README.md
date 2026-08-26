@@ -19,8 +19,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 **Data & Cloud:**
@@ -34,7 +32,6 @@
 
 ### 📌 Featured Projects
 
-> Pin these repos to your GitHub profile - recruiters check them first!
 
 - 📈 **[Sales Analytics Dashboard - Power BI](https://github.com/AKSUF/repo-name)** - End-to-end dashboard with DAX & data modeling
 - 🧮 **[SQL Data Cleaning & Analysis](https://github.com/AKSUF/repo-name)** - Real-world dataset cleaning + business insights
