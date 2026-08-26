@@ -40,18 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKSUF&show_icons=true&theme=tokyonight" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSUF&layout=compact&theme=tokyonight" alt="langs" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSUF&theme=tokyonight" alt="streak" />
-</p>
-
----
 
 ### 🎓 What I Do Beyond Code
 
