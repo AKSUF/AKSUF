@@ -1,6 +1,6 @@
 # Hi there, I'm Abu Sufian 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Analytics+Engineer;Math+%26+ICT+Teacher+%7C+Narayanganj%2C+Dhaka;Exploring+SQL+%7C+Power+BI+%7C+Python+%7C+Azure" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Analytics+Engineer;Math+%26+ICT+Teacher+%7C+Narayanganj%2C+Dhaka;Exploring+SQL+%7C+Power+BI+%7C+Python+%7C+Databricks" />
 
 ### 🚀 About Me
 
