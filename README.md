@@ -35,7 +35,7 @@
 - 📈 **[Bank Analysis ](https://github.com/AKSUF/BankingLoanAnalyst)** - End-to-end dashboard with DAX & data modeling
 - 🧮 **[Car Sales](https://github.com/AKSUF/CarSales)** - Real-world dataset cleaning + business insights
 - 🔷 **[Brazil Olist Analysis](https://github.com/AKSUF/Brazil-Olist-AbusSufian)** - Python visualizations for math teaching
-- ☁️ **[Azure Databricks Pipeline](https://github.com/AKSUF/repo-name)** - Analytics engineering pipeline work
+- ☁️ **[KINGS part data modeling project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
 
 *Tip: Replace each `repo-name` above with your actual repo link, e.g. `https://github.com/AKSUF/sales-dashboard`*
 
