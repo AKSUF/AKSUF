@@ -25,17 +25,16 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 
 ---
 
 ### 📌 Featured Projects
 
 
-- 📈 **[Sales Analytics Dashboard - Power BI](https://github.com/AKSUF/repo-name)** - End-to-end dashboard with DAX & data modeling
-- 🧮 **[SQL Data Cleaning & Analysis](https://github.com/AKSUF/repo-name)** - Real-world dataset cleaning + business insights
-- 🔷 **[Geometry Concepts Visualizer](https://github.com/AKSUF/repo-name)** - Python visualizations for math teaching
+- 📈 **[Bank Analysis ](https://github.com/AKSUF/BankingLoanAnalyst)** - End-to-end dashboard with DAX & data modeling
+- 🧮 **[Car Sales](https://github.com/AKSUF/CarSales)** - Real-world dataset cleaning + business insights
+- 🔷 **[Brazil Olist Analysis](https://github.com/AKSUF/Brazil-Olist-AbusSufian)** - Python visualizations for math teaching
 - ☁️ **[Azure Databricks Pipeline](https://github.com/AKSUF/repo-name)** - Analytics engineering pipeline work
 
 *Tip: Replace each `repo-name` above with your actual repo link, e.g. `https://github.com/AKSUF/sales-dashboard`*
