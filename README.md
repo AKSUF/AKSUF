@@ -37,7 +37,9 @@
 - **[Brazil Olist Analysis](https://github.com/AKSUF/Brazil-Olist-AbusSufian)** - Python visualizations for math teaching
 - **[KINGS part data modeling project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
 - **[Heavy Supply data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
-
+- **[Coffe Supply data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
+- **[Insurance data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
+- **[Tourist data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
 ---
 
 
