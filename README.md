@@ -1,57 +1,111 @@
-# Hi there, I'm Abu Sufian 👋
+# Hi, I'm Abu Sufian 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Analytics+Engineer;Math+%26+ICT+Teacher+%7C+Narayanganj%2C+Dhaka;Exploring+SQL+%7C+Power+BI+%7C+Python+%7C+Databricks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Modeling+%7C+Business+Analytics;Exploring+Analytics+Engineering+%26+PySpark" alt="Typing SVG" />
 
-### 🚀 About Me
+I'm a **Data Analyst with a background in Mathematics and ICT education**, interested in using data, statistics, and analytical thinking to solve business problems.
 
-- 📊 **Data Analyst & Analytics Engineer** passionate about turning data into decisions
-- 📚 **Math & ICT Teacher** at Narayanganj, Dhaka - Making complex concepts simple
-- 🎯 Currently diving deep into **Modern Data Stack: Databricks, Azure & Analytics Engineering**
-- 💡 I love to teach Geometry and build end-to-end analytics projects
-- 🌱 Motto: Learn, Analyze, Teach, Repeat
+I enjoy exploring datasets, writing SQL queries, analyzing patterns with Python, designing data models, and communicating findings through Power BI dashboards.
+
+- 📊 **Analytics:** Exploratory Data Analysis, statistical analysis, KPI analysis, and business insights
+- 🗄️ **SQL & Databases:** SQL, MySQL, CTEs, window functions, and data transformation
+- 🐍 **Python:** Pandas, data cleaning, exploratory analysis, and visualization
+- 📈 **Business Intelligence:** Power BI, DAX, data modeling, and dashboard design
+- 🏗️ **Developing next:** Analytics Engineering, PySpark, and modern data platforms
+- 📚 **Beyond analytics:** Teaching Mathematics and ICT, with a particular interest in analytical thinking and problem-solving
+
+**My approach:** Understand the business question → validate the data → analyze the evidence → communicate actionable insights.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages & Databases:**
+### Languages & Data Analysis
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-150458?style=for-the-badge&logo=dax&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-150458?style=for-the-badge&logo=dax&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Data & Cloud:**
+### Business Intelligence & Databases
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-FF3621?style=for-the-badge&logo=databricks&logoColor=blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
 
----
+### Development Tools & Learning
 
-### 📌 Featured Projects
-
-
-- **[Bank Analysis ](https://github.com/AKSUF/BankingLoanAnalyst)** - End-to-end dashboard with DAX & data modeling
-- **[Car Sales](https://github.com/AKSUF/CarSales)** - Real-world dataset cleaning + business insights
-- **[Brazil Olist Analysis](https://github.com/AKSUF/Brazil-Olist-AbusSufian)** - Python visualizations for math teaching
-- **[KINGS part data modeling project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
-- **[Heavy Supply data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
-- **[Coffe Supply data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
-- **[Insurance data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
-- **[Tourist data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
----
-
-
-### 🎓 What I Do Beyond Code
-
-- 📐 Breaking down Geometry concepts for students
-- 📝 Developing Math & ICT Syllabus
-- 📊 Building Analytics Engineering projects for learning
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Development- E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Learning-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
-### 📫 Connect With Me
+## 🚀 Featured Projects
+
+### 1. Banking & Loan Analytics
+
+[**Banking Loan Analyst**](https://github.com/AKSUF/BankingLoanAnalyst)
+
+Exploring banking and loan data to understand customer characteristics, loan patterns, and business performance.
+
+**Focus areas:** SQL, Python, data modeling, exploratory analysis, and Power BI.
+
+### 2. Heavy Supplier & Warehouse Analytics
+
+[**Cadex — Heavy Supplier Analytics**](https://github.com/AKSUF/Cadex)
+
+Working with sales, inventory, purchasing, and warehouse data to investigate operational and product performance.
+
+**Focus areas:** Star schema design, inventory analysis, product performance, stock movement, and SQL-based analytics.
+
+### 3. Coffee Supply Chain Analytics
+
+[**The King's Pantry**](https://github.com/AKSUF/The-Kings-Pantry)
+
+Exploring supply-chain and profitability data to understand revenue, margins, product performance, and regional trends.
+
+**Focus areas:** Data modeling, profitability analysis, SQL, and Power BI.
+
+### 4. Car Sales Analysis
+
+[**Car Sales**](https://github.com/AKSUF/CarSales)
+
+Analyzing car sales data through data cleaning, exploratory analysis, and business-oriented insights.
+
+**Focus areas:** Python, data preparation, sales trends, and visualization.
+
+### 5. Brazilian E-Commerce Analytics
+
+[**Brazil Olist Analysis**](https://github.com/AKSUF/Brazil-Olist-AbusSufian)
+
+Exploring Brazilian e-commerce data to investigate business patterns and customer and order-related insights.
+
+**Focus areas:** Python, exploratory data analysis, and data visualization.
+
+---
+
+## 📚 What I'm Learning
+
+I'm building my analytical foundation step by step, with an emphasis on understanding the reasoning behind the numbers rather than creating visualizations without a clear question.
+
+- Strengthening SQL and Python for deeper analysis
+- Applying statistics and mathematical reasoning to real datasets
+- Improving Power BI data modeling and DAX
+- Learning PySpark and scalable data-processing concepts
+- Developing better analytical workflows and project documentation
+
+---
+
+## 🎓 Beyond Data Analytics
+
+My experience in Mathematics and ICT education has strengthened my ability to break down complex concepts, communicate clearly, and approach problems logically.
+
+I bring that same mindset to data analysis: ask meaningful questions, examine the evidence, and explain what the results mean.
+
+---
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-sufian-data/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jvjgjgjg)
@@ -59,4 +113,6 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AKSUF&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AKSUF&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub profile views" />
+</p>
