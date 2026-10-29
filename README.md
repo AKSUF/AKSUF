@@ -25,7 +25,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=blue)
+![Azure](https://img.shields.io/badge/Azure-FF3621?style=for-the-badge&logo=databricks&logoColor=blue)
 
 ---
 
