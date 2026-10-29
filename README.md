@@ -81,25 +81,25 @@ Exploring Brazilian e-commerce data to investigate business patterns and custome
 
 **Focus areas:** Python, exploratory data analysis, and data visualization.
 
-### 5. Coffe Supply Analytics
+### 6. Coffe Supply Analytics
 
-[**Brazil Olist Analysis**](https://github.com/AKSUF/Brazil-Olist-AbusSufian)
-
-Exploring Brazilian e-commerce data to investigate business patterns and customer and order-related insights.
-
-**Focus areas:** Python, exploratory data analysis, and data visualization.
-
-### 5. Food Supply Analytics
-
-[**Brazil Olist Analysis**](https://github.com/AKSUF/Brazil-Olist-AbusSufian)
+[**Coffe Supply Analytics**](https://github.com/AKSUF/Brazil-Olist-AbusSufian)
 
 Exploring Brazilian e-commerce data to investigate business patterns and customer and order-related insights.
 
 **Focus areas:** Python, exploratory data analysis, and data visualization.
 
-### 5. Sales Performance  Analytics
+### 7. Food Supply Analytics
 
-[**Brazil Olist Analysis**](https://github.com/AKSUF/Brazil-Olist-AbusSufian)
+[**Food Supply Analytics**](https://github.com/AKSUF/Brazil-Olist-AbusSufian)
+
+Exploring Brazilian e-commerce data to investigate business patterns and customer and order-related insights.
+
+**Focus areas:** Python, exploratory data analysis, and data visualization.
+
+### 8. Sales Performance  Analytics
+
+[**Sales Performance  Analytics**](https://github.com/AKSUF/Brazil-Olist-AbusSufian)
 
 Exploring Brazilian e-commerce data to investigate business patterns and customer and order-related insights.
 
