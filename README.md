@@ -25,7 +25,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
+![Azure](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=blue)
 
 ---
 
@@ -36,7 +36,7 @@
 - **[Car Sales](https://github.com/AKSUF/CarSales)** - Real-world dataset cleaning + business insights
 - **[Brazil Olist Analysis](https://github.com/AKSUF/Brazil-Olist-AbusSufian)** - Python visualizations for math teaching
 - **[KINGS part data modeling project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
-
+- **[Heavy Supply data analytical project](https://github.com/AKSUF/The-Kings-Pantry)** - Analytics engineering pipeline work
 
 ---
 
